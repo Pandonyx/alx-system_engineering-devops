@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "The crrent working directory is:"
+pwd
