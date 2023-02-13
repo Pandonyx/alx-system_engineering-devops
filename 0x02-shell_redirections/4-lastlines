@@ -1,0 +1,2 @@
+#!/bin/basah
+tail /etc/passwd
